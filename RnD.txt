@@ -1,0 +1,27 @@
+BMSN
+- Fitur KP
+- Fitur Merchant  (masukin ke prog desc)
+- Fitur Comment 
+- Fitur Chat   (node.js) ->
+- Link ke Forum Internal
+
+BUNCIS
+- Catat Notulen 
+- Login dengan BNCC ID + Hak Akses
+- Compare Jadwal
+- Komunitas
+- Mobile
+
+Project Internal
+- BL <awal september>
+- Web Event EEO Awal Tahun <Awal november>
+
+Riset
+- Web Security <oktober>
+- Server 
+- CSS Framework (960 Framework)
+//GIT
+- Mobile Apps Framework (Phonegap atau IBM Worklight)
+- Chat BMSN (node.js)
+
+Game BMSN (game fave) -> bulan november
